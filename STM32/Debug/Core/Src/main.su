@@ -1,0 +1,14 @@
+../Core/Src/main.c:69:6:DHT11	8	static
+../Core/Src/main.c:86:7:getCO	56	static
+../Core/Src/main.c:97:6:MQ9	8	static
+../Core/Src/main.c:115:6:SharpGPY1014	8	static
+../Core/Src/main.c:130:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:154:8:ADC_Select_CH0	32	static
+../Core/Src/main.c:142:5:main	64	static
+../Core/Src/main.c:167:8:ADC_Select_CH4	32	static
+../Core/Src/main.c:241:6:SystemClock_Config	88	static
+../Core/Src/main.c:288:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:349:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:382:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:415:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:461:6:Error_Handler	4	static,ignoring_inline_asm
